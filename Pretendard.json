@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "프리텐다드",
+    "previewText": "system-ui를 대체하는 글꼴",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf",
+        "ggsans-ExtraBold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-ExtraBold.ttf",
+        "ggsans-Medium": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Medium.ttf",
+        "ggsans-Normal": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Regular.ttf",
+        "ggsans-Semibold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-SemiBold.ttf",
+        "NotoSans-Bold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-Regular.ttf",
+        "NotoSans-Semibold": "https://github.com/orioncactus/pretendard/raw/main/packages/pretendard/dist/public/static/alternative/Pretendard-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/ancalina/noto/raw/main/NanumGothicCoding-Regular.ttf"
+    }
+}
